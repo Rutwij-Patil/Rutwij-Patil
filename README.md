@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust, Networks**
 
-- 👯 I’m looking to collaborate on **Backend Projects(Rust, JAVA)**
+- 👯 I’m looking to collaborate on **Backend Projects(Flask, NodeJS, JAVA)**
 
 - 🤝 I’m looking for help with **Firebase**
 
